@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeanMedianAvarage", "MeanMedianAvarage\MeanMedianAvarage.csproj", "{B848A6EA-BCC9-417E-B792-169702A50AF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeanMedianAvarageTests", "MeanMedianAvarageTests\MeanMedianAvarageTests.csproj", "{32E3DD7B-612C-4085-9580-766933A85C36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B848A6EA-BCC9-417E-B792-169702A50AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B848A6EA-BCC9-417E-B792-169702A50AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B848A6EA-BCC9-417E-B792-169702A50AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E3DD7B-612C-4085-9580-766933A85C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E3DD7B-612C-4085-9580-766933A85C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E3DD7B-612C-4085-9580-766933A85C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E3DD7B-612C-4085-9580-766933A85C36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
