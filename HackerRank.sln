@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightedAvarage", "Weighted
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightedAvarageTests", "WeightedAvarageTests\WeightedAvarageTests.csproj", "{6ADB9225-9F65-4097-92DC-5CF644CCC371}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{513FF0B2-42D6-431E-A65F-85BB0DC3D160}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6ADB9225-9F65-4097-92DC-5CF644CCC371}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ADB9225-9F65-4097-92DC-5CF644CCC371}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ADB9225-9F65-4097-92DC-5CF644CCC371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513FF0B2-42D6-431E-A65F-85BB0DC3D160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513FF0B2-42D6-431E-A65F-85BB0DC3D160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513FF0B2-42D6-431E-A65F-85BB0DC3D160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513FF0B2-42D6-431E-A65F-85BB0DC3D160}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
