@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightedAvarageTests", "Wei
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{513FF0B2-42D6-431E-A65F-85BB0DC3D160}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartiles", "Quartiles\Quartiles.csproj", "{5442C13D-F141-40E0-8DBE-7B44EBAA13EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartilesTests", "QuartilesTests\QuartilesTests.csproj", "{09863EAB-91EE-4350-BA3B-F18C82EFB3B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{513FF0B2-42D6-431E-A65F-85BB0DC3D160}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{513FF0B2-42D6-431E-A65F-85BB0DC3D160}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{513FF0B2-42D6-431E-A65F-85BB0DC3D160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5442C13D-F141-40E0-8DBE-7B44EBAA13EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5442C13D-F141-40E0-8DBE-7B44EBAA13EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5442C13D-F141-40E0-8DBE-7B44EBAA13EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5442C13D-F141-40E0-8DBE-7B44EBAA13EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09863EAB-91EE-4350-BA3B-F18C82EFB3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09863EAB-91EE-4350-BA3B-F18C82EFB3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09863EAB-91EE-4350-BA3B-F18C82EFB3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09863EAB-91EE-4350-BA3B-F18C82EFB3B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
