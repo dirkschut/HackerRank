@@ -33,15 +33,17 @@ namespace Quartiles
 
             List<int> below = new List<int>();
             List<int> above = new List<int>();
-            foreach(int i in numbers)
+
+
+            for (int i = 0; i < numbers.Count; i++)
             {
-                if(i < q2)
+                if (i < numbers.Count / 2)
                 {
-                    below.Add(i);
+                    below.Add(numbers[i]);
                 }
-                else if(i > q2)
+                else if (i > numbers.Count / 2)
                 {
-                    above.Add(i);
+                    above.Add(numbers[i]);
                 }
             }
 
