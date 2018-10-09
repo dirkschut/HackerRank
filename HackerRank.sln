@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterquartileRange", "Inter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterquartileRangeTests", "InterquartileRangeTests\InterquartileRangeTests.csproj", "{828C7469-ED7E-4DC8-B710-AA5CCF812109}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandartDeviation", "StandartDeviation\StandartDeviation.csproj", "{C84136A5-5741-4517-9E94-BB93AF3DF1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandartDeviationTests", "StandartDeviationTests\StandartDeviationTests.csproj", "{1893E7FA-90BF-4FE5-9404-C7F200966589}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{828C7469-ED7E-4DC8-B710-AA5CCF812109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{828C7469-ED7E-4DC8-B710-AA5CCF812109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{828C7469-ED7E-4DC8-B710-AA5CCF812109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84136A5-5741-4517-9E94-BB93AF3DF1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84136A5-5741-4517-9E94-BB93AF3DF1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84136A5-5741-4517-9E94-BB93AF3DF1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84136A5-5741-4517-9E94-BB93AF3DF1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1893E7FA-90BF-4FE5-9404-C7F200966589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1893E7FA-90BF-4FE5-9404-C7F200966589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1893E7FA-90BF-4FE5-9404-C7F200966589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1893E7FA-90BF-4FE5-9404-C7F200966589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
