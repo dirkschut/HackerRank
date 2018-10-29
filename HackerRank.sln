@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewLoop", "reviewloop\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{944D72B3-17BC-40F4-AED4-73E4288119D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{35677D3B-0F81-4D9F-A0CE-A248C2146511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountBinaryOnes", "CountBinaryOnes\CountBinaryOnes.csproj", "{25CAB6A0-A221-4F1E-B721-27566F1CAE9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{944D72B3-17BC-40F4-AED4-73E4288119D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{944D72B3-17BC-40F4-AED4-73E4288119D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{944D72B3-17BC-40F4-AED4-73E4288119D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35677D3B-0F81-4D9F-A0CE-A248C2146511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35677D3B-0F81-4D9F-A0CE-A248C2146511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35677D3B-0F81-4D9F-A0CE-A248C2146511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35677D3B-0F81-4D9F-A0CE-A248C2146511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CAB6A0-A221-4F1E-B721-27566F1CAE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CAB6A0-A221-4F1E-B721-27566F1CAE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CAB6A0-A221-4F1E-B721-27566F1CAE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CAB6A0-A221-4F1E-B721-27566F1CAE9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
